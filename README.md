@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: About
 ---
+# About page
+
+This page tells you a little bit about me.
 
 
 # Wafaa_Portfolio
