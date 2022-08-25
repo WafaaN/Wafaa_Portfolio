@@ -1,12 +1,3 @@
----
-layout: default
-title: About
----
-# About page
-
-This page tells you a little bit about me.
-
-
 # Wafaa_Portfolio
 Example data science projects 
 
