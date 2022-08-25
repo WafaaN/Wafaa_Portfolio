@@ -2,6 +2,9 @@
 Example data science projects 
 
 ### [Project 1 - City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
+- First item
+- Second item
+- Third item
 
 ### Project 2 - Exploratory Data Analysis  
 - First item
