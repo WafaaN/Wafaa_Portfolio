@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blogging Like a Hacker
+---
+
 # Wafaa_Portfolio
 Example data science projects 
 
