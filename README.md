@@ -1,6 +1,6 @@
 ---
-layout: default
-title: My Data Science Portfolio 
+layout: post
+title: Blogging Like a Hacker
 ---
 
 
