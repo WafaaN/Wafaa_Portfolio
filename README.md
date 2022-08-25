@@ -7,8 +7,6 @@ Example data science projects
 - Third item
 
 ![](https://github.com/WafaaN/Wafaa_Portfolio/blob/main/images/plot1.png)
-![](https://github.com/WafaaN/Wafaa_Portfolio/blob/main/images/plot2.png)
-![](https://github.com/WafaaN/Wafaa_Portfolio/blob/main/images/plot3.png)
 
 ### Project 2 - Exploratory Data Analysis  
 - First item
